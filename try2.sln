@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try2.Plugins", "try2.Plugins.csproj", "{9485A4C1-D146-EF8A-1EED-902C6BDB41CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try2", "try2.csproj", "{F131C11F-01C7-3044-4F86-8582BD239CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "try2.Editor.Plugins", "try2.Editor.Plugins.csproj", "{D28ACFE9-C2CB-EFEE-231F-97C0E7189ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9485A4C1-D146-EF8A-1EED-902C6BDB41CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9485A4C1-D146-EF8A-1EED-902C6BDB41CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9485A4C1-D146-EF8A-1EED-902C6BDB41CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9485A4C1-D146-EF8A-1EED-902C6BDB41CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F131C11F-01C7-3044-4F86-8582BD239CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F131C11F-01C7-3044-4F86-8582BD239CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F131C11F-01C7-3044-4F86-8582BD239CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F131C11F-01C7-3044-4F86-8582BD239CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28ACFE9-C2CB-EFEE-231F-97C0E7189ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28ACFE9-C2CB-EFEE-231F-97C0E7189ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28ACFE9-C2CB-EFEE-231F-97C0E7189ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28ACFE9-C2CB-EFEE-231F-97C0E7189ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
